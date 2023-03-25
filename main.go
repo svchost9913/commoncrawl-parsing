@@ -2,12 +2,12 @@ package main
 
 import (
 	"bufio"
-	"commoncrawl-parsing/logs"
 	"context"
 	"fmt"
 	"github.com/elliotwutingfeng/go-fasttld"
 	"github.com/go-redis/redis/v8"
 	"github.com/spf13/viper"
+	"github.com/svchost9913/commoncrawl-parsing/logs"
 	"go.uber.org/zap"
 	"log"
 	"net/url"

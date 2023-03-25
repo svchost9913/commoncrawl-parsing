@@ -1,4 +1,4 @@
-module commoncrawl-parsing
+module github.com/svchost9913/commoncrawl-parsing
 
 go 1.19
 
