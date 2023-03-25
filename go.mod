@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 module github.com/svchost9913/commoncrawl-parsing
+=======
+module commoncrawl-parsing
+>>>>>>> commoncrawl-parsing/main
 
 go 1.19
 
@@ -36,5 +40,8 @@ require (
 	golang.org/x/text v0.8.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
+<<<<<<< HEAD
 
+=======
+>>>>>>> commoncrawl-parsing/main
 )
